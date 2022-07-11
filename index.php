@@ -1,2 +1,3 @@
-ákljfglaskjglasnglanskldgns
-hello
+<?php
+echo "hoc git ez vai"
+?>
